@@ -13,7 +13,7 @@
 
 ## Vídeo (YouTube não listado, ≤ 5 min)
 
-- Demonstração: **VIDEO_URL_AQUI**
+- Demonstração: https://youtu.be/aEqHiuRwHg4
 
 ## Notebook oficial
 
