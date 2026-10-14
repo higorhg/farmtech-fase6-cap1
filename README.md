@@ -2,7 +2,7 @@
 
 # FarmTech Solutions — O despertar da Rede Neural
 
-## Fase 6, Capítulo 1 · turma 1TIAOA
+## Grupo 30 — Fase 6, Capítulo 1 · turma 1TIAOA
 
 ## Integrantes
 
