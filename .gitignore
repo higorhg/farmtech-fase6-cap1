@@ -1,0 +1,10 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+*.pt
+!runs/yolo_custom_*/weights/last.pt
+runs/aval_*/
+runs/teste_indices_coco/
+runs/data_*.yaml
+*.cache
+runs/*/args.yaml

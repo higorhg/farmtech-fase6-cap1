@@ -1,0 +1,642 @@
+[
+ {
+  "arquivo": "images/train/vaca_001098.jpg",
+  "classe": "vaca",
+  "split": "train",
+  "coco_id": "000000001098",
+  "fonte": "http://images.cocodataset.org/train2017/000000001098.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/train/vaca_003771.jpg",
+  "classe": "vaca",
+  "split": "train",
+  "coco_id": "000000003771",
+  "fonte": "http://images.cocodataset.org/train2017/000000003771.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/train/vaca_008595.jpg",
+  "classe": "vaca",
+  "split": "train",
+  "coco_id": "000000008595",
+  "fonte": "http://images.cocodataset.org/train2017/000000008595.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/train/vaca_008612.jpg",
+  "classe": "vaca",
+  "split": "train",
+  "coco_id": "000000008612",
+  "fonte": "http://images.cocodataset.org/train2017/000000008612.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/train/vaca_011169.jpg",
+  "classe": "vaca",
+  "split": "train",
+  "coco_id": "000000011169",
+  "fonte": "http://images.cocodataset.org/train2017/000000011169.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/train/vaca_011336.jpg",
+  "classe": "vaca",
+  "split": "train",
+  "coco_id": "000000011336",
+  "fonte": "http://images.cocodataset.org/train2017/000000011336.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/train/vaca_012407.jpg",
+  "classe": "vaca",
+  "split": "train",
+  "coco_id": "000000012407",
+  "fonte": "http://images.cocodataset.org/train2017/000000012407.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/train/vaca_014430.jpg",
+  "classe": "vaca",
+  "split": "train",
+  "coco_id": "000000014430",
+  "fonte": "http://images.cocodataset.org/train2017/000000014430.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/train/vaca_015438.jpg",
+  "classe": "vaca",
+  "split": "train",
+  "coco_id": "000000015438",
+  "fonte": "http://images.cocodataset.org/train2017/000000015438.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/train/vaca_015823.jpg",
+  "classe": "vaca",
+  "split": "train",
+  "coco_id": "000000015823",
+  "fonte": "http://images.cocodataset.org/train2017/000000015823.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/train/vaca_015984.jpg",
+  "classe": "vaca",
+  "split": "train",
+  "coco_id": "000000015984",
+  "fonte": "http://images.cocodataset.org/train2017/000000015984.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/train/vaca_017602.jpg",
+  "classe": "vaca",
+  "split": "train",
+  "coco_id": "000000017602",
+  "fonte": "http://images.cocodataset.org/train2017/000000017602.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/train/vaca_020420.jpg",
+  "classe": "vaca",
+  "split": "train",
+  "coco_id": "000000020420",
+  "fonte": "http://images.cocodataset.org/train2017/000000020420.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/train/vaca_022983.jpg",
+  "classe": "vaca",
+  "split": "train",
+  "coco_id": "000000022983",
+  "fonte": "http://images.cocodataset.org/train2017/000000022983.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/train/vaca_023908.jpg",
+  "classe": "vaca",
+  "split": "train",
+  "coco_id": "000000023908",
+  "fonte": "http://images.cocodataset.org/train2017/000000023908.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/train/vaca_024480.jpg",
+  "classe": "vaca",
+  "split": "train",
+  "coco_id": "000000024480",
+  "fonte": "http://images.cocodataset.org/train2017/000000024480.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/train/vaca_024515.jpg",
+  "classe": "vaca",
+  "split": "train",
+  "coco_id": "000000024515",
+  "fonte": "http://images.cocodataset.org/train2017/000000024515.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/train/vaca_026719.jpg",
+  "classe": "vaca",
+  "split": "train",
+  "coco_id": "000000026719",
+  "fonte": "http://images.cocodataset.org/train2017/000000026719.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/train/vaca_027739.jpg",
+  "classe": "vaca",
+  "split": "train",
+  "coco_id": "000000027739",
+  "fonte": "http://images.cocodataset.org/train2017/000000027739.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/train/vaca_029341.jpg",
+  "classe": "vaca",
+  "split": "train",
+  "coco_id": "000000029341",
+  "fonte": "http://images.cocodataset.org/train2017/000000029341.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/train/vaca_031829.jpg",
+  "classe": "vaca",
+  "split": "train",
+  "coco_id": "000000031829",
+  "fonte": "http://images.cocodataset.org/train2017/000000031829.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/train/vaca_032538.jpg",
+  "classe": "vaca",
+  "split": "train",
+  "coco_id": "000000032538",
+  "fonte": "http://images.cocodataset.org/train2017/000000032538.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/train/vaca_035547.jpg",
+  "classe": "vaca",
+  "split": "train",
+  "coco_id": "000000035547",
+  "fonte": "http://images.cocodataset.org/train2017/000000035547.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/train/vaca_036218.jpg",
+  "classe": "vaca",
+  "split": "train",
+  "coco_id": "000000036218",
+  "fonte": "http://images.cocodataset.org/train2017/000000036218.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/train/vaca_036345.jpg",
+  "classe": "vaca",
+  "split": "train",
+  "coco_id": "000000036345",
+  "fonte": "http://images.cocodataset.org/train2017/000000036345.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/train/vaca_037011.jpg",
+  "classe": "vaca",
+  "split": "train",
+  "coco_id": "000000037011",
+  "fonte": "http://images.cocodataset.org/train2017/000000037011.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/train/vaca_038381.jpg",
+  "classe": "vaca",
+  "split": "train",
+  "coco_id": "000000038381",
+  "fonte": "http://images.cocodataset.org/train2017/000000038381.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/train/vaca_039864.jpg",
+  "classe": "vaca",
+  "split": "train",
+  "coco_id": "000000039864",
+  "fonte": "http://images.cocodataset.org/train2017/000000039864.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/train/vaca_042675.jpg",
+  "classe": "vaca",
+  "split": "train",
+  "coco_id": "000000042675",
+  "fonte": "http://images.cocodataset.org/train2017/000000042675.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/train/vaca_044621.jpg",
+  "classe": "vaca",
+  "split": "train",
+  "coco_id": "000000044621",
+  "fonte": "http://images.cocodataset.org/train2017/000000044621.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/train/vaca_045677.jpg",
+  "classe": "vaca",
+  "split": "train",
+  "coco_id": "000000045677",
+  "fonte": "http://images.cocodataset.org/train2017/000000045677.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/train/vaca_047621.jpg",
+  "classe": "vaca",
+  "split": "train",
+  "coco_id": "000000047621",
+  "fonte": "http://images.cocodataset.org/train2017/000000047621.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/val/vaca_048111.jpg",
+  "classe": "vaca",
+  "split": "val",
+  "coco_id": "000000048111",
+  "fonte": "http://images.cocodataset.org/train2017/000000048111.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/val/vaca_048821.jpg",
+  "classe": "vaca",
+  "split": "val",
+  "coco_id": "000000048821",
+  "fonte": "http://images.cocodataset.org/train2017/000000048821.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/val/vaca_050750.jpg",
+  "classe": "vaca",
+  "split": "val",
+  "coco_id": "000000050750",
+  "fonte": "http://images.cocodataset.org/train2017/000000050750.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/val/vaca_051304.jpg",
+  "classe": "vaca",
+  "split": "val",
+  "coco_id": "000000051304",
+  "fonte": "http://images.cocodataset.org/train2017/000000051304.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/test/vaca_053451.jpg",
+  "classe": "vaca",
+  "split": "test",
+  "coco_id": "000000053451",
+  "fonte": "http://images.cocodataset.org/train2017/000000053451.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/test/vaca_058785.jpg",
+  "classe": "vaca",
+  "split": "test",
+  "coco_id": "000000058785",
+  "fonte": "http://images.cocodataset.org/train2017/000000058785.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/test/vaca_059789.jpg",
+  "classe": "vaca",
+  "split": "test",
+  "coco_id": "000000059789",
+  "fonte": "http://images.cocodataset.org/train2017/000000059789.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/test/vaca_060202.jpg",
+  "classe": "vaca",
+  "split": "test",
+  "coco_id": "000000060202",
+  "fonte": "http://images.cocodataset.org/train2017/000000060202.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/train/caminhao_001739.jpg",
+  "classe": "caminhao",
+  "split": "train",
+  "coco_id": "000000001739",
+  "fonte": "http://images.cocodataset.org/train2017/000000001739.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/train/caminhao_003493.jpg",
+  "classe": "caminhao",
+  "split": "train",
+  "coco_id": "000000003493",
+  "fonte": "http://images.cocodataset.org/train2017/000000003493.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/train/caminhao_004212.jpg",
+  "classe": "caminhao",
+  "split": "train",
+  "coco_id": "000000004212",
+  "fonte": "http://images.cocodataset.org/train2017/000000004212.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/train/caminhao_004497.jpg",
+  "classe": "caminhao",
+  "split": "train",
+  "coco_id": "000000004497",
+  "fonte": "http://images.cocodataset.org/train2017/000000004497.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/train/caminhao_007124.jpg",
+  "classe": "caminhao",
+  "split": "train",
+  "coco_id": "000000007124",
+  "fonte": "http://images.cocodataset.org/train2017/000000007124.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/train/caminhao_007713.jpg",
+  "classe": "caminhao",
+  "split": "train",
+  "coco_id": "000000007713",
+  "fonte": "http://images.cocodataset.org/train2017/000000007713.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/train/caminhao_009648.jpg",
+  "classe": "caminhao",
+  "split": "train",
+  "coco_id": "000000009648",
+  "fonte": "http://images.cocodataset.org/train2017/000000009648.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/train/caminhao_010058.jpg",
+  "classe": "caminhao",
+  "split": "train",
+  "coco_id": "000000010058",
+  "fonte": "http://images.cocodataset.org/train2017/000000010058.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/train/caminhao_010615.jpg",
+  "classe": "caminhao",
+  "split": "train",
+  "coco_id": "000000010615",
+  "fonte": "http://images.cocodataset.org/train2017/000000010615.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/train/caminhao_013274.jpg",
+  "classe": "caminhao",
+  "split": "train",
+  "coco_id": "000000013274",
+  "fonte": "http://images.cocodataset.org/train2017/000000013274.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/train/caminhao_013497.jpg",
+  "classe": "caminhao",
+  "split": "train",
+  "coco_id": "000000013497",
+  "fonte": "http://images.cocodataset.org/train2017/000000013497.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/train/caminhao_015273.jpg",
+  "classe": "caminhao",
+  "split": "train",
+  "coco_id": "000000015273",
+  "fonte": "http://images.cocodataset.org/train2017/000000015273.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/train/caminhao_015963.jpg",
+  "classe": "caminhao",
+  "split": "train",
+  "coco_id": "000000015963",
+  "fonte": "http://images.cocodataset.org/train2017/000000015963.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/train/caminhao_016486.jpg",
+  "classe": "caminhao",
+  "split": "train",
+  "coco_id": "000000016486",
+  "fonte": "http://images.cocodataset.org/train2017/000000016486.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/train/caminhao_017311.jpg",
+  "classe": "caminhao",
+  "split": "train",
+  "coco_id": "000000017311",
+  "fonte": "http://images.cocodataset.org/train2017/000000017311.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/train/caminhao_018564.jpg",
+  "classe": "caminhao",
+  "split": "train",
+  "coco_id": "000000018564",
+  "fonte": "http://images.cocodataset.org/train2017/000000018564.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/train/caminhao_019647.jpg",
+  "classe": "caminhao",
+  "split": "train",
+  "coco_id": "000000019647",
+  "fonte": "http://images.cocodataset.org/train2017/000000019647.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/train/caminhao_019932.jpg",
+  "classe": "caminhao",
+  "split": "train",
+  "coco_id": "000000019932",
+  "fonte": "http://images.cocodataset.org/train2017/000000019932.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/train/caminhao_020039.jpg",
+  "classe": "caminhao",
+  "split": "train",
+  "coco_id": "000000020039",
+  "fonte": "http://images.cocodataset.org/train2017/000000020039.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/train/caminhao_020182.jpg",
+  "classe": "caminhao",
+  "split": "train",
+  "coco_id": "000000020182",
+  "fonte": "http://images.cocodataset.org/train2017/000000020182.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/train/caminhao_020947.jpg",
+  "classe": "caminhao",
+  "split": "train",
+  "coco_id": "000000020947",
+  "fonte": "http://images.cocodataset.org/train2017/000000020947.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/train/caminhao_024403.jpg",
+  "classe": "caminhao",
+  "split": "train",
+  "coco_id": "000000024403",
+  "fonte": "http://images.cocodataset.org/train2017/000000024403.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/train/caminhao_024497.jpg",
+  "classe": "caminhao",
+  "split": "train",
+  "coco_id": "000000024497",
+  "fonte": "http://images.cocodataset.org/train2017/000000024497.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/train/caminhao_024769.jpg",
+  "classe": "caminhao",
+  "split": "train",
+  "coco_id": "000000024769",
+  "fonte": "http://images.cocodataset.org/train2017/000000024769.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/train/caminhao_026497.jpg",
+  "classe": "caminhao",
+  "split": "train",
+  "coco_id": "000000026497",
+  "fonte": "http://images.cocodataset.org/train2017/000000026497.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/train/caminhao_026731.jpg",
+  "classe": "caminhao",
+  "split": "train",
+  "coco_id": "000000026731",
+  "fonte": "http://images.cocodataset.org/train2017/000000026731.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/train/caminhao_027890.jpg",
+  "classe": "caminhao",
+  "split": "train",
+  "coco_id": "000000027890",
+  "fonte": "http://images.cocodataset.org/train2017/000000027890.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/train/caminhao_027942.jpg",
+  "classe": "caminhao",
+  "split": "train",
+  "coco_id": "000000027942",
+  "fonte": "http://images.cocodataset.org/train2017/000000027942.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/train/caminhao_027989.jpg",
+  "classe": "caminhao",
+  "split": "train",
+  "coco_id": "000000027989",
+  "fonte": "http://images.cocodataset.org/train2017/000000027989.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/train/caminhao_028293.jpg",
+  "classe": "caminhao",
+  "split": "train",
+  "coco_id": "000000028293",
+  "fonte": "http://images.cocodataset.org/train2017/000000028293.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/train/caminhao_028333.jpg",
+  "classe": "caminhao",
+  "split": "train",
+  "coco_id": "000000028333",
+  "fonte": "http://images.cocodataset.org/train2017/000000028333.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/train/caminhao_028532.jpg",
+  "classe": "caminhao",
+  "split": "train",
+  "coco_id": "000000028532",
+  "fonte": "http://images.cocodataset.org/train2017/000000028532.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/val/caminhao_029096.jpg",
+  "classe": "caminhao",
+  "split": "val",
+  "coco_id": "000000029096",
+  "fonte": "http://images.cocodataset.org/train2017/000000029096.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/val/caminhao_029524.jpg",
+  "classe": "caminhao",
+  "split": "val",
+  "coco_id": "000000029524",
+  "fonte": "http://images.cocodataset.org/train2017/000000029524.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/val/caminhao_029601.jpg",
+  "classe": "caminhao",
+  "split": "val",
+  "coco_id": "000000029601",
+  "fonte": "http://images.cocodataset.org/train2017/000000029601.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/val/caminhao_032674.jpg",
+  "classe": "caminhao",
+  "split": "val",
+  "coco_id": "000000032674",
+  "fonte": "http://images.cocodataset.org/train2017/000000032674.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/test/caminhao_032751.jpg",
+  "classe": "caminhao",
+  "split": "test",
+  "coco_id": "000000032751",
+  "fonte": "http://images.cocodataset.org/train2017/000000032751.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/test/caminhao_033144.jpg",
+  "classe": "caminhao",
+  "split": "test",
+  "coco_id": "000000033144",
+  "fonte": "http://images.cocodataset.org/train2017/000000033144.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/test/caminhao_033489.jpg",
+  "classe": "caminhao",
+  "split": "test",
+  "coco_id": "000000033489",
+  "fonte": "http://images.cocodataset.org/train2017/000000033489.jpg",
+  "caixas": 1
+ },
+ {
+  "arquivo": "images/test/caminhao_034482.jpg",
+  "classe": "caminhao",
+  "split": "test",
+  "coco_id": "000000034482",
+  "fonte": "http://images.cocodataset.org/train2017/000000034482.jpg",
+  "caixas": 1
+ }
+]

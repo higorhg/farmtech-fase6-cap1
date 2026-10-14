@@ -1,0 +1,5 @@
+abordagem,tarefa,métrica no teste,treino (s),inferência (ms/img),facilidade de uso
+YOLO customizada (60 épocas),detecção (classe + caixa),mAP50 = 0.849,389.9,19.8,Média: exige caixa rotulada em cada imagem; o treino é uma chamada (model.train)
+"YOLO padrão (COCO, sem treino)",detecção (80 classes genéricas),mAP50 = 0.857,0.0,23.7,Alta: sem rotulação nem treino; só funciona se a classe existir no COCO
+CNN do zero (40 épocas),classificação (só a classe),acurácia = 0.875,2.4,0.48,Alta para rotular (uma pasta/nome por classe); exige definir e ajustar a arquitetura
+CNN NumPy (didática),classificação (só a classe),acurácia = 0.500,1.5,23.1,"Baixa: tudo implementado à mão; útil para ensino, não para produção"

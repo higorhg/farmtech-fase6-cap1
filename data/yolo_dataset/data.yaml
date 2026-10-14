@@ -1,0 +1,8 @@
+# Dataset FarmTech Fase 6 — 80 imagens (32 treino / 4 val / 4 teste por classe)
+path: .  # o notebook gera runs/data_farmtech.yaml com o caminho absoluto
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: vaca
+  1: caminhao
